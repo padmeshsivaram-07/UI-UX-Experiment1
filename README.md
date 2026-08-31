@@ -17,8 +17,8 @@ To explore the fundamentals of UI and UX, differentiate between them using real-
 
 ## Output:
 a. Fundamentals of UI and UX
-### UI (User Interface): the visual and interactive elements of a product — buttons, icons, typography, colors, spacing, and layout. Concerned with how a product looks and how its controls are arranged.
-### UX (User Experience): the overall experience a user has while using a product — how easy, efficient, and satisfying it is to accomplish a goal. Covers usability, information architecture, interaction design, and accessibility.
+ UI (User Interface): the visual and interactive elements of a product — buttons, icons, typography, colors, spacing, and layout. Concerned with how a product looks and how its controls are arranged.
+ UX (User Experience): the overall experience a user has while using a product — how easy, efficient, and satisfying it is to accomplish a goal. Covers usability, information architecture, interaction design, and accessibility.
 
 b. Real-World Case Studies
 | Case | UI Quality | UX Quality | Takeaway |
@@ -28,11 +28,11 @@ b. Real-World Case Studies
 | Early Google Search | Minimal | High (fast, single clear task) | Simplicity can drive strong UX |
 
 c. Relationship Between UI and UX
-### UI is a subset of the broader UX. UX defines the strategy — who the user is and how the journey should flow — while UI gives that strategy a visual, touchable form.
+ UI is a subset of the broader UX. UX defines the strategy — who the user is and how the journey should flow — while UI gives that strategy a visual, touchable form.
 
-### Analogy: UX is the overall driving experience of a car (comfort, safety, intuitiveness); UI is the dashboard and steering wheel the driver directly touches. A great dashboard cannot fix a car that handles poorly, and a smooth driving experience can still be undermined by a badly laid-out dashboard.
+ Analogy: UX is the overall driving experience of a car (comfort, safety, intuitiveness); UI is the dashboard and steering wheel the driver directly touches. A great dashboard cannot fix a car that handles poorly, and a smooth driving experience can still be undermined by a badly laid-out dashboard.
 
-### Design process flow: UX research & flows → Wireframes → UI visual design → Usability testing → Refine both.
+ Design process flow: UX research & flows → Wireframes → UI visual design → Usability testing → Refine both.
 
 d. UI/UX Design Tools
 | Tool | Primary Use |
